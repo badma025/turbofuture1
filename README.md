@@ -39,4 +39,8 @@
 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
+## 📫 How to reach me: 
+... on Twitter at [@turbofuture__](https://twitter.com/turbofuture__)
+- ⚡ Fun fact: ... I am a Structural Engineer
+
 
