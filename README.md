@@ -41,6 +41,5 @@
 
 ## 📫 How to reach me: 
 ... on Twitter at [@turbofuture__](https://twitter.com/turbofuture__)
-- ⚡ Fun fact: ... I am a Structural Engineer
 
 
