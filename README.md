@@ -9,6 +9,7 @@
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **athletics**, **basketball**, **chess**, and **long-distance running**.
 
 ![Project Euler](https://projecteuler.net/profile/turbofuture.png)
+![Flag Counter](https://s01.flagcounter.com/count2/w2yG/bg_000000/txt_FFFFFF/border_CC0700/columns_3/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/)
 
 ## 🛠️ Skills
 
