@@ -53,5 +53,5 @@
 
 
 ## 📫 How to reach me: 
-... on Twitter at [@turbofuture__](https://twitter.com/turbofuture__)
+... via email - alimbadmus239@outlook.com
 
